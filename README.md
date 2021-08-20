@@ -3,4 +3,4 @@ The **Collatz conjecture** is a conjecture in mathematics that concerns sequence
 
 It is also known as the **3n + 1 problem**, the **3n + 1 conjecture**
 
-Read more at [wikipedia](https://en.wikipedia.org/wiki/Collatz_conjecture)!
+Read more at [Wikipedia](https://en.wikipedia.org/wiki/Collatz_conjecture)!
