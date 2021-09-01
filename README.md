@@ -5,4 +5,4 @@ It is also known as the **3*n* + 1 problem**, the **3*n* + 1 conjecture**.
 
 Read more at [Wikipedia](https://en.wikipedia.org/wiki/Collatz_conjecture)!
 
-Download latest version: https://github.com/nullsoftware/CollatzConjecture/releases/latest
+[Download latest version](https://github.com/nullsoftware/CollatzConjecture/releases/latest).
